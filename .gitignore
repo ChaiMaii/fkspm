@@ -1,0 +1,4 @@
+*.exe
+fkspm
+fkspm_modules/
+.DS_Store
